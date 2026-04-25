@@ -20,6 +20,11 @@ compatibility: opencode
 以当前 SKILL.md 所在文件夹为根目录，存在以下你可以引用的文件:
 - `./references/summarize.agents.md`
 - `./references/zhihu.agents.md`
+- `./references/xiaohongshu.agents.md`
+- `./references/short-video.agents.md`
+- `./references/qq.agents.md`
+- `./references/paper.agents.md`
+- `./references/anime-character.agents.md`
 
 ## 工作内容
 规定 BATCH_COUNT 为全局变量，你后续的流程要用到。如果用户没有指定BATCH_COUNT，则从1-10中随机挑选一个数字设置为值。
@@ -39,5 +44,7 @@ compatibility: opencode
     访问 `./references/qq.agents.md`
 
     访问 `./references/short-video.agents.md`
+
+    访问 `./references/anime-character.agents.md`
 
     同时启动以上 agent。
