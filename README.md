@@ -11,6 +11,10 @@
 
 建议搭配中文能力好的模型（如 Deepseek）使用。
 
+## Install
+
+下载后，将 `nuke` 文件夹放入你的 skills 文件夹即可。
+
 ## Usage
 
 直接启动：
